@@ -1,0 +1,13 @@
+Target mineral: Alunite
+Image dimensions: 250 x 190
+Number of spectral bands: 188
+Total pixels: 47500
+Detected Alunite pixels: 852
+Not detected pixels: 46648
+Detection percentage: 1.793684%
+SAM threshold: 0.15 radians
+Alunite endmember index: 1
+Binary map shape: (250, 190)
+Binary values: 0 = not detected, 1 = detected
+Reference spectrum shape: (188,)
+SAM map shape: (250, 190)
